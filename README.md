@@ -23,27 +23,6 @@ Welcome to my curated list of the absolute best, must-have free apps for iOS. Fi
 
 ---
 
-## 🔍 Detailed App Breakdown
-
-### 🧹 Productivity & Organization
-* **Slider - Photo Video Cleaner**: Instead of tedious manual selection, this app gamifies clearing up your storage. Just swipe left to send a photo/video to the trash, or right to save it. 
-
-### 🛡️ Privacy, Security & Networking
-* **Proton VPN**: Created by scientists who met at CERN, this is one of the only trustworthy free VPNs that doesn't log your data, have data caps, or show annoying ads.
-* **uBlock Origin Lite**: A legendary name in ad blocking. This native Safari content blocker stops intrusive ads and trackers, speeding up your web page loading times.
-* **Lumikit WiFi Tools**: An absolute must-have for network diagnostics. It allows you to see all devices connected to your current network and troubleshoot connection issues.
-* **My Data Manager**: Perfect if you are on a limited cellular data plan. It tracks your exact data consumption, though it's worth noting its secondary free VPN function is just basic compared to Proton.
-
-### 🎵 Media & Entertainment
-* **Musicana**: A standout music organizer and player. It offers unrestricted, ad-free background playback, making it perfect for your offline or imported audio files.
-* **Video Lite**: Provides a streamlined, fast web-app experience specifically optimized to let you browse and watch video content without standard platform ads.
-
-### 🎨 Customization & Utilities
-* **intoLive**: Turn your favorite live music videos, TikToks, or family clips into fully functioning iOS Live Wallpapers for your lock screen.
-* **Rain Alarm**: Instead of checking standard forecasting apps, this uses real-time radar data to give you short-term, highly precise warnings when rain is actually approaching your exact location.
-* **Airvoy eSIM**: A clever utility for cost-conscious travelers. By dedicating a few minutes on hotel/home WiFi to watch sponsored ads, you earn free roaming mobile data.
-
----
 
 ## 🤝 Contributing
 Got a suggestion for an amazing, truly free iOS app that belongs on this list? 
